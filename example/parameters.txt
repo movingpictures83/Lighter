@@ -1,0 +1,3 @@
+fastqfile	plugins/Lighter/example/input.fastq
+kmersize	8
+genomesize	1000000

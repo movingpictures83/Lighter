@@ -1,0 +1,2 @@
+Prefix plugins/Lighter/example/
+Plugin Lighter inputfile parameters.txt outputfile .
